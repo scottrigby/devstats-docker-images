@@ -812,10 +812,12 @@ projects:
   flux:
     order: 65
     name: Flux
-    status: Sandbox
+    status: Graduated
     command_line: ['fluxcd']
     start_date: 2016-11-02T00:00:00Z
     join_date: 2019-07-15T00:00:00Z
+    incubating_date: 2021-03-12T00:00:00Z
+    graduated_date: 2022-11-21T00:00:00Z
     psql_db: flux
     main_repo: 'fluxcd/flux2'
     annotation_regexp: '^v?\d+\.\d+\.\d+$'
